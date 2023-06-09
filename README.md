@@ -1,16 +1,19 @@
-# flutter_provider_crud
+# Flutter Crud App
 
-A new Flutter project.
+A simple Flutter application fetching sample data from my own test api. 
+Used Dio package for requests.
+<br>
+Tried to use mvvm pattern and provider package at the same time.
+You can make get, post and delete requests in this application. Update feature for datas, error handling, share and bugfixes will be added soon.
 
-## Getting Started
+## Requirements For Using
 
-This project is a starting point for a Flutter application.
+You can e-mail me for full api url/key for testing and research purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### ScreenShots
+<img src="https://i.hizliresim.com/cijfee2.png" width="200" height="450">
+<img src="https://i.hizliresim.com/10ptso3.png" width="200" height="450"> 
+<img src="https://i.hizliresim.com/bwif4mo.png" width="200" height="450"> 
+<img src="https://i.hizliresim.com/k4g4rss.png" width="200" height="450">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
